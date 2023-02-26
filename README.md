@@ -3,7 +3,9 @@
 
 ![](https://komarev.com/ghpvc/?username=AMG22075&style=for-the-badge)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AMG22075&theme=javascript)](https://git.io/streak-stats)
+### My Github Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AMG22075&theme=tokyonight)](https://git.io/streak-stats)
 
 
 
