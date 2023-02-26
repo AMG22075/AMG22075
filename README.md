@@ -1,9 +1,9 @@
 
-<h2>👋 Hi there </h2>
+<h2>😄 Hi there </h2>
 
 ![](https://komarev.com/ghpvc/?username=AMG22075&style=for-the-badge)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AMG22075&" alt="AMG22075" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=AMG22075&theme=javascript)](https://git.io/streak-stats)
 
 
 
