@@ -9,7 +9,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AMG22075&" alt="AMG22075" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AMG22075d&show_icons=true&locale=en&layout=compact" alt="AMG22075" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AMG22075&show_icons=true&locale=en&layout=compact" alt="AMG22075" /></p>
 
 
 <!--
