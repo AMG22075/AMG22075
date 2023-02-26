@@ -1,9 +1,7 @@
 
 <h1>👋 Hi there </h1>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=AMG22075-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="" /> 
-  </p>
+![](https://komarev.com/ghpvc/?username=AMG22075&style=for-the-badge)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AMG22075&" alt="AMG22075" /></p>
 
