@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=AMG22075-pw&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+  </p>
+
 <!--
 **AMG22075/AMG22075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
