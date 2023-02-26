@@ -5,7 +5,7 @@
 
 ### My Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AMG22075&theme=github-light)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AMG22075&theme=Javascript)](https://git.io/streak-stats)
 
 
 
