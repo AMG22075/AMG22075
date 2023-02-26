@@ -8,8 +8,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AMG22075&show_icons=true&title_color=707780&icon_color=4F8F00&text_color=111827&bg_color=F6F8FA" alt="">
 </p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AMG22075&" alt="AMG22075" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AMG22075&show_icons=true&locale=en&layout=compact" alt="AMG22075" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AMG22075&" alt="AMG22075" /></p>
+
 
 
 <!--
