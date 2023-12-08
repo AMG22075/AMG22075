@@ -1,7 +1,7 @@
 
 <h2>😄 Hi there </h2>
 
-![](https://komarev.com/ghpvc/?username=AMG22075&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=AMG22075&style=for-the-badge&label=VIEWS)
 
 ### My Github Stats
 
