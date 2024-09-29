@@ -1,6 +1,4 @@
 
-<h2>😄 Hi there </h2>
-
 ![](https://komarev.com/ghpvc/?username=AMG22075&style=for-the-badge&label=VIEWS&color=red)
 
 ### My Github Stats
